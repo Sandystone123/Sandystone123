@@ -1,4 +1,4 @@
-!LOGO[](https://github.com/Sandystone123/Sandystone123/blob/main/Sandeep%20P%20B%20(1).png)
+!logo[](https://github.com/Sandystone123/Sandystone123/blob/main/Sandeep%20P%20B%20(1).png)
 <h1 align="center">Hi 👋, I'm SANDEEP P B</h1>
 <h3 align="center">A passionate Software testing & SQL Dev</h3>
 
